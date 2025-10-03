@@ -7,3 +7,4 @@ build/
 tmp/
 .pytest_cache/
 *.tmp
+coverage/
