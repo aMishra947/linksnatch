@@ -1,6 +1,6 @@
 {
   "name": "linksnatch",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "Dead simple bookmarks",
   "main": "src/index.js",
   "scripts": {
